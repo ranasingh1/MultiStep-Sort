@@ -9,8 +9,7 @@ const Result = () => {
       </div>
       <div className="font-bold text-[#02295a] text-3xl">Thank you!</div>
       <p className="text-[#9699ab] text-[14px] w-96">
-        Thanks for confirming your subscription! We hope you have fun using our
-        platform. If you ever need support. Please feel free to email us at
+        Thanks for Submiting your Information, click on  the button below to go to product page.
       </p>
     </div>
   );

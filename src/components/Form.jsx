@@ -200,7 +200,7 @@ const Form = () => {
                    <Link to ="/page/product"> <div
                       className="font-medium bg-[#473dff] select-none text-white py-3 px-5 rounded-lg cursor-pointer transition duration-100 hover:opacity-90"
                     >
-                      Confirm
+                      Product 
                     </div>
                     </Link>
                   ) : (
