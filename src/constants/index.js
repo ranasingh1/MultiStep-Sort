@@ -1,0 +1,3 @@
+export const SIDEBAR_IMG = 'https://img.freepik.com/free-vector/navy-blue-geometrical-patterned-mobile-wallpaper-vector_53876-167963.jpg?w=360&t=st=1706766913~exp=1706767513~hmac=26576a46777ddfd25d6027acb0fae4ff2e6a109364add158348cfac0045589a1'
+export const COMPLETE = 'https://img.freepik.com/free-vector/tiny-people-standing-near-big-checkmark-team-male-female-characters-finishing-work-with-list-good-job-sign-flat-vector-illustration-done-job-checklist-time-management-concept_74855-21019.jpg?w=996&t=st=1706779020~exp=1706779620~hmac=a706bbd6b2b3c1e9d75bcf9c02a1f8044c91f132f0da797319b40f65025d62be'
+export const PRODUCT_API = 'https://dummyjson.com/products'
